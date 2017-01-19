@@ -1,5 +1,22 @@
 @import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,900");
 @import url("font-awesome.min.css");
+@import url("https://stephanwagner.me/css/jBox/demo-html.css");
+@import url("https://code.jboxcdn.com/themes/TooltipDark.css");
+
+#demo-container {
+  padding: 50px 0;
+  text-align: center;
+}
+
+#demo-container .hover {
+  margin: 5px;
+}
+
+#demo-container #demo-tooltip-mouse {
+  padding: 30px 15px;
+  max-width: 550px;
+  width: calc(100% - 40px);
+}
 
 /*
 	Aerial by HTML5 UP
